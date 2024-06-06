@@ -4,7 +4,7 @@ Desarrolladora de software apasionada por las buenas prácticas y dar soluciones
 ## 👯 Buscando mi siguiente experiencia laboral...
 
 ## ⭐️ Proyectos Destacados
-- [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto 1.
+- [Proyecto 1](https://github.com/demateu/write_and_read): Breve descripción del proyecto 1.
 - [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto 2.
 
 ## 🔭 Actualmente trabajando en..
