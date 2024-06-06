@@ -4,12 +4,15 @@ Desarrolladora de software apasionada por las buenas prácticas y dar soluciones
 ## 👯 Buscando mi siguiente experiencia laboral...
 
 ## ⭐️ Proyectos Destacados
-- [Proyecto 1](https://github.com/demateu/write_and_read): Breve descripción del proyecto 1.
-- [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto 2.
+- [Write and Read](https://github.com/demateu/write_and_read): Plataforma para compartir y leer cuentos e historias.
+- [Picking](https://github.com/demateu/picking): Tarea de gestión de estocs.
+- [Multivending](https://github.com/demateu/multivending): Multivending.
 
 ## 🔭 Actualmente trabajando en..
+- Una app para practicar Flutter
 
 ## 🌱  Actualmente aprendiendo..
+- Flutter
 
 ## 💬 Contacto
 - [LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
