@@ -1,5 +1,5 @@
-# ¡Hola! soy Monica 👋
-Desarrolladora de software apasionada por las buenas prácticas y dar soluciones con la ayuda de la tecnología.
+## ¡Hola! soy Monica 👋
+Desarrolladora de software apasionada por la implementación de buenas prácticas y la resolución de problemas mediante la tecnología.
 ## 👯 Buscando mi siguiente experiencia laboral...
 
 ## ⭐️ Proyectos Destacados
