@@ -1,4 +1,4 @@
-# Hola, mi nombre es Monica 👋
+# ¡Hola! soy Monica 👋
 
 ## Acerca de mí
 Desarrolladora de software apasionada por las buenas prácticas y dar soluciones con la ayuda de la tecnología.
