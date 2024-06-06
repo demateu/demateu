@@ -13,9 +13,11 @@ Desarrolladora de software apasionada por las buenas prácticas y dar soluciones
 ## 🌱  Actualmente aprendiendo..
 - Flutter
 
-## 💬 Contacto
-- [LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
-- [Sitio Web Personal](enlace-a-tu-sitio-web-personal)
+## 💬 Social
+- [LinkedIn](https://www.linkedin.com/in/demateu/)
+
+## 📫 ¿Como contactar conmigo?
+- <a href="mailto:demateu80@gmail.com">demateu80@gmail.com</a>
 
 <!--
 **demateu/demateu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
