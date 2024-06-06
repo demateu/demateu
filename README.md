@@ -1,6 +1,5 @@
 # ¡Hola! soy Monica 👋
 Desarrolladora de software apasionada por las buenas prácticas y dar soluciones con la ayuda de la tecnología.
-## 😄 Pronombres: ella
 ## 👯 Buscando mi siguiente experiencia laboral...
 
 ## ⭐️ Proyectos Destacados
