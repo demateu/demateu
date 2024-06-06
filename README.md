@@ -1,8 +1,7 @@
-## Hola, mi nombre es Monica 👋
+# Hola, mi nombre es Monica 👋
 
-# Mi Perfil de GitHub
 ## Acerca de mí
-¡Hola! Soy [Monica], desarrolladora de software apasionada por las buenas prácticas y dar soluciones con la ayuda de la tecnología.
+Desarrolladora de software apasionada por las buenas prácticas y dar soluciones con la ayuda de la tecnología.
 
 ## Proyectos Destacados
 - [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto 1.
