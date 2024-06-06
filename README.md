@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hola, mi nombre es Monica 👋
+
+# Mi Perfil de GitHub
+## Acerca de mí
+¡Hola! Soy [Monica], desarrolladora de software apasionada por las buenas prácticas y dar soluciones con la ayuda de la tecnología.
+
+## Proyectos Destacados
+- [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto 1.
+- [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto 2.
+
+## Contacto
+- [LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
+- [Sitio Web Personal](enlace-a-tu-sitio-web-personal)
 
 <!--
 **demateu/demateu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
