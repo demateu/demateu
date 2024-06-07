@@ -5,23 +5,23 @@ Desarrolladora de software apasionada por el conocimiento y la implementación d
 ## 💼 Stack
 ☕️Java 🐍Python 🌏PHP 🐦Javascript 🦚CSS + HTML 🦎Bootstrap 🐘AWS 🐳Docker ⓦWordpress 🌈UX-UI 🔍SEO
 
-## ⭐️ Proyectos Destacados
+### ⭐️ Proyectos Destacados
 - [Write and Read](https://github.com/demateu/write_and_read): Plataforma para compartir y leer cuentos e historias.
 - [Picking](https://github.com/demateu/picking): Tarea de gestión de estocs.
 - [Multivending](https://github.com/demateu/multivending): Multivending.
 
-## 🌱 Actualmente aprendiendo..
+### 🌱 Actualmente aprendiendo..
 - Flutter
 
-## 🧠 Formación adquirida
+### 🧠 Formación adquirida
 - Ciclo Superior de desarrollo de aplicaciones web (Institut Obert de Catalunya)
 - Posgrado de Python (Universitat Oberta de catalunya)
 - Ciclo Superior de Diseño
 
-## 💬 Social
+### 💬 Social
 - [LinkedIn](https://www.linkedin.com/in/demateu/)
 
-## 📫 ¿Como contactar conmigo?
+### 📫 ¿Como contactar conmigo?
 - <a href="mailto:demateu80@gmail.com">demateu80@gmail.com</a>
 
 <!--
