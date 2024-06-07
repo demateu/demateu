@@ -1,9 +1,9 @@
 ## ¡Hola! Bienvenides a mis proyectos^^. Soy Monica 👋
 Desarrolladora de software apasionada por el conocimiento y la implementación de buenas prácticas. No paro hasta que no lo soluciono.
 
-<span align="center">
-  ## ✨ Buscando mi siguiente experiencia laboral... ✨
-</span>
+<h2 align="center">
+  ✨ Buscando mi siguiente experiencia laboral... ✨
+</h2>
 
 ## 💼 Stack
 ☕️Java 🐍Python 🌏PHP 🐦Javascript 🦚CSS + HTML 🦎Bootstrap 🐘AWS 🐳Docker ⓦWordpress 🌈UX-UI 🔍SEO
