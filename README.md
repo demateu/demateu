@@ -2,6 +2,9 @@
 Desarrolladora de software apasionada por la implementación de buenas prácticas y la resolución de problemas mediante la tecnología.
 ## ✨ Buscando mi siguiente experiencia laboral... ✨
 
+## 💼 Stack
+☕️Java 🐍Python 🌏PHP 🐦Javascript 🦚CSS + HTML 🦎Bootstrap 🐘AWS 🐳Docker ⓦWordpress 🌈UX-UI 🔍SEO
+
 ## ⭐️ Proyectos Destacados
 - [Write and Read](https://github.com/demateu/write_and_read): Plataforma para compartir y leer cuentos e historias.
 - [Picking](https://github.com/demateu/picking): Tarea de gestión de estocs.
@@ -14,10 +17,6 @@ Desarrolladora de software apasionada por la implementación de buenas práctica
 - Ciclo Superior de desarrollo de aplicaciones web (Institut Obert de Catalunya)
 - Posgrado de Python (Universitat Oberta de catalunya)
 - Ciclo Superior de Diseño
-
-## 💼 Stack
-
-
 
 ## 💬 Social
 - [LinkedIn](https://www.linkedin.com/in/demateu/)
