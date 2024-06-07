@@ -1,5 +1,6 @@
-## ¡Hola! Bienvenides a mis proyectos^^. Soy Monica 👋
-Desarrolladora de software apasionada por el conocimiento y la implementación de buenas prácticas. No paro hasta que no lo soluciono.
+## ¡Hola! Bienvenides a mis proyectos^^. 
+### Soy Monica 👋
+<p>Desarrolladora de software apasionada por el conocimiento y la implementación de buenas prácticas. No paro hasta que no lo soluciono.</p>
 
 <h2 align="center">
   ✨ Buscando mi siguiente experiencia laboral... ✨
