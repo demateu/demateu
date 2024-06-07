@@ -4,12 +4,13 @@ Desarrolladora de software apasionada por el conocimiento y la implementación d
 
 ## 💼 Stack
 ☕️Java 🐍Python 🌏PHP 🐦Javascript 🦚CSS + HTML 🦎Bootstrap 🐘AWS 🐳Docker ⓦWordpress 🌈UX-UI 🔍SEO
+<hr>
 
 ### ⭐️ Proyectos Destacados
 - [Write and Read](https://github.com/demateu/write_and_read): Plataforma para compartir y leer cuentos e historias.
 - [Picking](https://github.com/demateu/picking): Tarea de gestión de estocs.
 - [Multivending](https://github.com/demateu/multivending): Multivending.
-<hr>
+
 ### 🌱 Actualmente aprendiendo..
 - Flutter
 
