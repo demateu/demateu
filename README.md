@@ -7,7 +7,7 @@
 </h2>
 
 ## 💼 Stack
-☕️Java 🐍Python 🌏PHP 🐦Javascript 🦚CSS + HTML 🦎Bootstrap 🐘AWS 🐳Docker ⓦWordpress 🌈UX-UI 🔍SEO
+☕️Java 🐍Python 🌏PHP 🐦Javascript 🦚CSS + HTML 🦎Bootstrap 🐘AWS 🐳Docker ⓦWordpress 🌈UX-UI 🔍SEO ⭕️Laravel 🗄️SQL
 <hr>
 
 ### ⭐️ Proyectos Destacados
