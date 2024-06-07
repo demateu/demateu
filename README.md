@@ -1,9 +1,10 @@
-## ¡Hola! soy Monica 👋
+## ¡Hola! Bienvenides a mis proyectos^^. Soy Monica 👋
 Desarrolladora de software apasionada por el conocimiento y la implementación de buenas prácticas. No paro hasta que no lo soluciono.
-## ✨ Buscando mi siguiente experiencia laboral... ✨
-<p align="center">
-  Bienvenido a mi proyecto. Este texto está centrado utilizando HTML.
-</p>
+
+<span align="center">
+  ## ✨ Buscando mi siguiente experiencia laboral... ✨
+</span>
+
 ## 💼 Stack
 ☕️Java 🐍Python 🌏PHP 🐦Javascript 🦚CSS + HTML 🦎Bootstrap 🐘AWS 🐳Docker ⓦWordpress 🌈UX-UI 🔍SEO
 <hr>
