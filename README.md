@@ -11,9 +11,10 @@
 <hr>
 
 ### ⭐️ Proyectos Destacados
-- [Write and Read](https://github.com/demateu/write_and_read): Plataforma para compartir y leer cuentos e historias.
-- [Picking](https://github.com/demateu/picking): Tarea de gestión de estocs.
-- [Multivending](https://github.com/demateu/multivending): Multivending.
+- [Write and Read (PHP nativo)](https://github.com/demateu/write_and_read): Plataforma para compartir y leer cuentos e historias.
+- [Picking (Laravel)](https://github.com/demateu/picking): Tarea de gestión de estocs.
+- [Multivending (Laravel)](https://github.com/demateu/multivending): Multivending (repositorio privado).
+- [Crud (Symfony)](https://github.com/demateu/proveedores): Multivending (repositorio privado).
 
 ### 🌱 Actualmente aprendiendo..
 - [Flutter](https://github.com/demateu/myapp)
